@@ -12,7 +12,7 @@ Musterweg
 12345 Musterstadt   
 
 Vertreten durch:  
-Korbinian Meister
+Korbinian Meister  
 Kontakt:  
 Telefon: 01234-789456  
 E-Mail: info@schotterblosn.de  
