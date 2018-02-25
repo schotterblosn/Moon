@@ -16,7 +16,7 @@ Korbinian Meister
 Lena-Christ-Straße 1c  
 85375 Neufahrn  
 Telefon: 0157/76813010  
-E-Mail: info@schotterblosn.de  
+E-Mail: auskunft@schotterblosn.de  
 
 # Haftungsausschluss: 
 
