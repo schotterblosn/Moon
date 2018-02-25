@@ -11,12 +11,11 @@ Max Muster
 Musterweg  
 12345 Musterstadt   
 
-Vertreten durch: 
-Max Muster
-Kontakt: 
-Telefon: 01234-789456
-Fax: 1234-56789
-E-Mail: max@muster.de
+Vertreten durch:  
+Korbinian Meister
+Kontakt:  
+Telefon: 01234-789456  
+E-Mail: info@schotterblosn.de  
 
 # Umsatzsteuer-ID: 
 Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: Musterustid.
