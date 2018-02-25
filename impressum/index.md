@@ -7,11 +7,9 @@ comments: false
 
 # Angaben gemäß § 5 TMG
 
-Max Muster 
-
-Musterweg
-
-12345 Musterstadt 
+Max Muster  
+Musterweg  
+12345 Musterstadt   
 
 Vertreten durch: 
 Max Muster
